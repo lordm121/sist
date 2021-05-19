@@ -1,0 +1,16 @@
+{
+
+  "server_id": "server id",
+
+  "voice_id": "id room voice",
+
+  "welcome_room": "roomi welcome ",
+
+  "invite_room": "id roomi invite",
+
+  "sug_room": "id room suggestions",
+
+  "line_id":"id line"
+
+}
+
