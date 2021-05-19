@@ -35,5 +35,8 @@
     "string-progressbar": "^1.0.1",
     "ytdl-core": "^4.4.5",
     "ytdl-core-discord": "^1.2.5"
+  },
+  "engines": {
+    "node": "12.x"
   }
 }
