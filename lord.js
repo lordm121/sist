@@ -856,7 +856,7 @@ client.on("message", (msg) => {
       .setThumbnail(msg.member.user.avatarURL({ format: "gif", format: "png", dynamic: true, size: 1024 }))
       .setAuthor("Bot Orders")
       .setTitle("Click Here To Create A Bot Like This")
-      .setURL("https://github.com/NIR0-V/ULTRA-VERSION-OF-N-SYSTEM.git")
+      .setURL("")
       .addField(prefix + `admin`, `Admin Commands`, true)
       .addField(prefix + `public`, `Public Commands`, true)
       .addField(prefix + `music`, `Music Commands`, true)
